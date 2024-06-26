@@ -20,7 +20,7 @@ const pakistanCities = [
   { name: "Ratti Gali Lake", latitude: 34.8861, longitude: 74.0486 },
   { name: "Shangrila Resort", latitude: 35.3525, longitude: 75.5088 },
   { name: "Deosai National Park", latitude: 35.0303, longitude: 75.443 },
-  { name: "Khunjerab Pass", latitude: 36.8497, longitude: 75.4306 },
+  { name: "Khunjerab Pass", latitude: 36.8539, longitude: 75.4589 },
   { name: "Shogran", latitude: 34.6271, longitude: 73.495 },
   { name: "Rama Meadows", latitude: 35.2918, longitude: 74.9643 },
   { name: "Gojal Valley", latitude: 36.6833, longitude: 74.85 },
